@@ -6,7 +6,7 @@
 
 This project tailored to meet the evolving needs of companies transitioning from traditional data engineering practices. Microsoft Azure played a pivotal role in this achievement.
 
-Commencing with the setup of a Microsoftware SQL Server database on my local machine, I seamlessly executed flawless data ingestions using Azure Data Factory. The project embraced the Lakehouse structure, integrating the Azure Data Lake Gen2 storage solution and leveraging the powerful capabilities of Azure Databricks (big data analytics tool).
+Commencing with the setup of a Microsoft SQL Server database on my local machine, I seamlessly executed flawless data ingestions using Azure Data Factory. The project embraced the Lakehouse structure, integrating the Azure Data Lake Gen2 storage solution and leveraging the powerful capabilities of Azure Databricks (big data analytics tool).
 
 Effectiveness was key in ensuring smooth data transformations, leading to the successful development of the Lakehouse architecture and leveraging the powerful capabilities of Azure DataBricks. The efficiency embedded in the project's integrative components was ensured through the application of Azure DataBricks notebooks.
 

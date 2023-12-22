@@ -4,7 +4,7 @@
 
 </div>
 
-This project tailored to meet the evolving needs of companies transitioning from traditional data engineering practices. Microsoft Azure played a pivotal role in this achievement.
+This project tailored to meet the evolving needs of companies transitioning from traditional databases to the cloud. Microsoft Azure played a pivotal role in this achievement.
 
 Commencing with the setup of a Microsoft SQL Server database on my local machine, I seamlessly executed flawless data ingestions using Azure Data Factory. The project embraced the Lakehouse structure, integrating the Azure Data Lake Gen2 storage solution and leveraging the powerful capabilities of Azure Databricks (big data analytics tool).
 
